@@ -4,6 +4,7 @@ body {
 }
 
 .table2 td {
+  padding-top: 20px;
   padding-bottom: 20px;
 }
 
@@ -37,9 +38,7 @@ body {
 }
 
 p {
-  font: arial;
+  font-family: arial;
   font-size: 16px;
   color: #3d3d3d;
 }
-
-
